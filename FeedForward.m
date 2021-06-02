@@ -1,5 +1,4 @@
 %% FCNN
-%C:\Users\BLITZKRIEG\Desktop\EEG Emotion\Kod\NeuralNetworkMatlab\NN
 clc, clearvars -except data y, close all;
 format long;
 
